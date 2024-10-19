@@ -1,6 +1,6 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "Calculator",
+  "productName": "tauri-desktop-app",
   "version": "0.1.0",
   "identifier": "com.example.tauri",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "Calculator by Tolipov",
+        "title": "Calculator by TolipovJS.uz",
         "width": 800,
         "height": 600,
         "resizable": true,
